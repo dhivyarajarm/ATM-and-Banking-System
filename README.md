@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040076
+# Name:R.DHIVYA
+# Date:26/10/2026
 
 
 # AIM:
@@ -30,6 +30,7 @@ To develop the ATM and Banking System using Star UML
 
 
 # UML DIAGRAMS
+<img width="1245" height="907" alt="Screenshot 2026-10-26 184336" src="https://github.com/user-attachments/assets/8f79467a-ed7b-4753-9060-d7a7c4976232" />
 
 # USE CASE DIAGRAM
 
